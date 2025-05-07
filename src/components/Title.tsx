@@ -84,7 +84,7 @@ export default function Title({ data }: TitleProps) {
   const [isLoading, setIsLoading] = useState(true);
   const videoRef = useRef(null);
 
-  const images = ["./assets/anh_cuoi_4.jpg"];
+  const images = ["./assets/anh_cuoi_11.jpg"];
 
   useEffect(() => {
     // Function để tải hình ảnh
