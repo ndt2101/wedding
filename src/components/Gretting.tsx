@@ -15,7 +15,7 @@ const Title = styled("p", {
 });
 
 const Content = styled("div", {
-  fontSize: "2.5vh",
+  fontSize: "2vh",
   lineHeight: 1.75,
   opacity: 0.75,
   width: "100%",
