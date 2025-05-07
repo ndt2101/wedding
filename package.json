@@ -11,7 +11,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "npm run build && npx next export && gh-pages -d out"
   },
   "dependencies": {
     "@ant-design/icons": "^5.3.1",
@@ -31,6 +33,7 @@
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
+    "gh-pages": "^6.3.0",
     "typescript": "^5"
   }
 }
