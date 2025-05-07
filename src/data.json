@@ -1,0 +1,39 @@
+{
+  "date": "09h00 sáng, ngày 18/05/2025",
+  "location": "Cô dâu: Đội 6, Thôn An Đoài, xã An Bình, huyện Nam Sách, tỉnh Hải Dương",
+  "location2": "",
+  "gretting": "💌 [THƯ MỜI CƯỚI ONLINE] 💌❤️ THAY CHO THIỆP HỒNG CHƯA KỊP GỬI TẬN TAY ❤️",
+  "groom": {
+    "name": "",
+    "account_number": "",
+    "parents": {
+      "mother": {
+        "name": "",
+        "account_number": ""
+      },
+      "father": {
+        "name": "",
+        "account_number": ""
+      }
+    }
+  },
+  "bride": {
+    "name": "Nguyễn Thị Hải Yến",
+    "account_number": "Techcombank 19036600919011",
+    "parents": {
+      "mother": {
+        "name": "Nguyễn Thị Huệ",
+        "account_number": "Techcombank 19036600919011"
+      },
+      "father": {
+        "name": "Nguyễn Đình Xứng",
+        "account_number": "Techcombank 19036600919011"
+      }
+    }
+  },
+  "kakaotalk": {
+    "api_token": "",
+    "wedding_invitation_url": "https://ndt2101.github.io/wedding-invitation/",
+    "share_image": ""
+  }
+}
